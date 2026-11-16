@@ -1,0 +1,6 @@
+{
+  "name": "La Panera Café — Panadería Artesanal, Desayunos & Brunch en Lima",
+  "description": "Donde la pasión por el pan y el amor por compartir se unen. Restaurante de desayunos, brunch, panadería artesanal, tortas y bocaditos en Lima, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
